@@ -1,0 +1,15 @@
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\bin\Debug\net6.0\001A.exe
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\bin\Debug\net6.0\001A.deps.json
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\bin\Debug\net6.0\001A.runtimeconfig.json
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\bin\Debug\net6.0\001A.dll
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\bin\Debug\net6.0\001A.pdb
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.AssemblyInfo.cs
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.dll
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\refint\001A.dll
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.pdb
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\001A.genruntimeconfig.cache
+C:\Users\Misha\Desktop\ДЗ С#\001\001A\obj\Debug\net6.0\ref\001A.dll
